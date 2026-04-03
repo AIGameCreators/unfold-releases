@@ -1,6 +1,8 @@
 ## Overview
 Release package for Unfold.
 
+![Unfold icon](./icon.png)
+
 ## Changes
 - Improved reading guide behavior
 - Refined block detail layout
