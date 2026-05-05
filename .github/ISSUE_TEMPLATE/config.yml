@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Unfold setup guide
+    url: https://aigamecreators.github.io/unfold-site/quickstart.html
+    about: Read the setup guide before filing a support issue.
